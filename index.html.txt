@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>POOP Coin - The Funniest Coin in the Crypto Space</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to POOP Coin!</h1>
+        <p>The Funniest Coin in the Crypto Space</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#features">Features</a></li>
+            <li><a href="#get-poop-coin">Get POOP Coin</a></li>
+            <li><a href="#community">Community</a></li>
+            <li><a href="#roadmap">Roadmap</a></li>
+            <li><a href="#faqs">FAQs</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <section id="features">
+        <h2>Features</h2>
+        <ul>
+            <li>Pooptacular Transactions</li>
+            <li>Community-Driven</li>
+            <li>Scat-tastic Rewards</li>
+            <li>Stink-free Guarantee</li>
+        </ul>
+    </section>
+    <section id="get-poop-coin">
+        <h2>How to Get POOP Coin</h2>
+        <ol>
+            <li>Join Our Discord</li>
+            <li>Participate in Airdrops</li>
+            <li>Buy on Exchanges</li>
+        </ol>
+    </section>
+    <section id="community">
+        <h2>Our Community</h2>
+        <p>Join us on social media and be part of the fun:</p>
+        <ul>
+            <li>Twitter: <a href="https://twitter.com/POOPCoinOfficial" target="_blank">@POOPCoinOfficial</a></li>
+            <li>Discord: <a href="https://discord.gg/POOPCoin" target="_blank">POOP Coin Community</a></li>
+            <li>Reddit: <a href="https://reddit.com/r/POOPCoin" target="_blank">r/POOPCoin</a></li>
+        </ul>
+    </section>
+    <section id="roadmap">
+        <h2>Roadmap</h2>
+        <ul>
+            <li><strong>Q1 2024</strong>: Launch POOP Coin Website and Social Channels, Initial Airdrop to Early Adopters</li>
+            <li><strong>Q2 2024</strong>: Listing on Major Decentralized Exchanges, Community Meme Contest with POOP Coin Rewards</li>
+            <li><strong>Q3 2024</strong>: Partnership Announcements, Introduction of POOP Coin Merchandise</li>
+            <li><strong>Q4 2024</strong>: Expansion of POOP Ecosystem, Development of POOP Wallet App</li>
+        </ul>
+    </section>
+    <section id="faqs">
+        <h2>FAQs</h2>
+        <div>
+            <h3>What makes POOP Coin different from other meme coins?</h3>
+            <p>POOP Coin is all about the community and the humor. We're here to make you laugh and enjoy the ride, all while offering real utility and rewards.</p>
+        </div>
+        <div>
+            <h3>Is POOP Coin a good investment?</h3>
+            <p>POOP Coin is primarily a joke and a meme. It’s designed for fun and community engagement. Always do your own research before investing.</p>
+        </div>
+        <div>
+            <h3>How can I earn POOP Coins?</h3>
+            <p>Participate in our community events, airdrops, and follow us on social media for various opportunities to earn POOP Coins.</p>
+        </div>
+    </section>
+    <footer id="contact">
+        <p>&copy; 2024 POOP Coin. All rights reserved. | <a href="#">Terms of Service</a> | <a href="#">Privacy Policy</a></p>
+        <p><a href="#">Subscribe to our Newsletter</a> | <a href="#">Contact Us</a></p>
+    </footer>
+</body>
+</html>
